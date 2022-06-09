@@ -1,0 +1,1 @@
+# Daily menu project REST API developed with Django
